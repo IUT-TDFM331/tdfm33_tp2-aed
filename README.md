@@ -21,3 +21,7 @@ Je remarque un message d'erreur sur github "All checks have failed"
 ## Que remarquez-vous ? (3)
 
 Je remarque que le test ne compile pas, ça bloque à "Running Ant tasks"
+
+## Que remarquez-vous ? (4)
+
+Je remarque le le commit a fonctionné avec succès malgré le fait que le test ne compile pas
