@@ -29,3 +29,7 @@ Je remarque le le commit a fonctionné avec succès malgré le fait que le test 
 ## Que remarquez-vous ? (5)
 
 Je remarque que le commit s'est passé correctement, je n'ai pas reçu de notifications d'erreur.
+
+## Problème rencontré
+
+Je fais le TD seul, donc il y'a les questions de groupe que je ne peux faire, puis j'ai un soucis avec la PR, avec la commande git checkout -b fix_test j'ai créé une nouvelle branche et je me suis placé dessus, j'ai ensuite corrigé le code et fait le commit et push, cependant je n'arrive pas à faire la PR et comme je suis seul en autonomie je ne peux pas demander de l'aide, mes camarades ne savent pas. Je vais donc commit et push sur la branche Master.
