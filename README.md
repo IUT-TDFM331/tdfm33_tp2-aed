@@ -25,3 +25,7 @@ Je remarque que le test ne compile pas, ça bloque à "Running Ant tasks"
 ## Que remarquez-vous ? (4)
 
 Je remarque le le commit a fonctionné avec succès malgré le fait que le test ne compile pas
+
+## Que remarquez-vous ? (5)
+
+Je remarque que le commit s'est passé correctement, je n'ai pas reçu de notifications d'erreur.
