@@ -17,3 +17,7 @@ Le test a échoué car il y'a une méthode à l'extérieur de la classe.
 ## Que remarquez-vous ? (2)
 
 Je remarque un message d'erreur sur github "All checks have failed"
+
+## Que remarquez-vous ? (3)
+
+Je remarque que le test ne compile pas, ça bloque à "Running Ant tasks"
