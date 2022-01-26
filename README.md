@@ -10,6 +10,10 @@ Mustapha Ait Hamou S3TG3 am803056
 
 Le test a échoué car il y'a une méthode à l'extérieur de la classe.
 
-## Que remarquez-vous ?
+## Que remarquez-vous ? (1)
 
-(Je suis seul pour de travail)
+(Je suis seul pour ce travail)
+
+## Que remarquez-vous ? (2)
+
+Je remarque un message d'erreur sur github "All checks have failed"
